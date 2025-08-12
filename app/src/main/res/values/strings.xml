@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Laboratorio 3 - PM</string>
+    <string name="title">Lista de Tareas</string>
 </resources>
