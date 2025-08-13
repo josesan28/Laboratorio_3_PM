@@ -88,7 +88,7 @@ fun TaskItem(
     onDelete: () -> Unit,
 ){
     Card (
-        colors = CardDefaults.cardColors(containerColor = Color.White),
+        colors = CardDefaults.cardColors(containerColor = Color(0xFF0E6DB4)),
         modifier = Modifier.fillMaxWidth()
     ){
         Row(
@@ -100,6 +100,7 @@ fun TaskItem(
             Text(
                 text = task.text,
                 color = Color.Black,
+                fontFamily = FontFamily.Serif,
                 style = TextStyle(
                     fontSize = 18.sp,
                     textDecoration = if (task.done) TextDecoration.LineThrough else TextDecoration.None
