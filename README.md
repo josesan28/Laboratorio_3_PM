@@ -42,3 +42,7 @@ La aplicación muestra:
 1. Clonar este repositorio:
    ```bash
    git clone https://github.com/usuario/repositorio.git
+
+## Video del funcionamiento
+
+Link: https://youtube.com/shorts/bxz02FK-Tes
