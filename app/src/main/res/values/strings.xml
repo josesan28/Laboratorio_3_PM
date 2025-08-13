@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Laboratorio 3 - PM</string>
     <string name="title">Lista de Tareas</string>
+    <string name="eliminar_tarea">Eliminar tarea</string>
+    <string name="completar_tarea">Marcar como completada</string>
 </resources>
