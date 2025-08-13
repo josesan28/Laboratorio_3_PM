@@ -3,4 +3,6 @@
     <string name="title">Lista de Tareas</string>
     <string name="eliminar_tarea">Eliminar tarea</string>
     <string name="completar_tarea">Marcar como completada</string>
+    <string name="escribir_tarea">Escribe tu tarea</string>
+    <string name="agregar_tarea">Agregar tarea</string>
 </resources>

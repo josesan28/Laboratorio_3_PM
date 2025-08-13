@@ -165,7 +165,7 @@ fun ListaTareas() {
                 value = nuevaTarea,
                 onValueChange = { nuevaTarea = it },
                 modifier = Modifier.weight(1f),
-                placeholder = { Text("Escribe tu tarea") }
+                placeholder = { Text(stringResource(R.string.escribir_tarea)) }
             )
             Spacer(modifier = Modifier.width(8.dp))
             Button(onClick = {
@@ -180,7 +180,7 @@ fun ListaTareas() {
                     ).show()
                 }
             }) {
-                Text("Agregar tarea")
+                Text(stringResource(R.string.agregar_tarea))
             }
         }
     }
